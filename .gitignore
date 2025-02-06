@@ -1,0 +1,8 @@
+
+# ignore crash recovery files
+
+*#
+#*
+
+# ignore emacs backup files
+*~
